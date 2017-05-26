@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;fr-ch" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" SourceControlDatabaseRoot="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject126.liprjf" SourceControlDatabase="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject126.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="468892ad-0ddf-467d-8c71-470e6ba52283">
+    <ProjectFile Source="Target/The self.docx" Target="Target/The self.docx" />
+</LingoProject>
